@@ -1,0 +1,24 @@
+{
+    "editor.wordWrap": "on",
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "editor.hover.sticky": false,
+    "workbench.editor.decorations.colors": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "eslint.alwaysShowStatus": true,
+    "eslint.debug": true,
+    "eslint.format.enable": true,
+    "eslint.lintTask.enable": true,
+    "eslint.probe": [
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact",
+        "html",
+        "vue",
+        "markdown",
+        "python"
+    ],
+    "prettier.embeddedLanguageFormatting": "off",
+    "eslint.run": "onSave",
+    "editor.formatOnSave": true
+}
